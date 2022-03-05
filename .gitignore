@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore compiled exe
+*.exe
+# Ignore other
+*.pyc
+*.conf
+*.ini
+*.log
+*.bak
+.idea/
+.venv/
+*/.vscode/
